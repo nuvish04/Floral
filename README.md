@@ -38,3 +38,18 @@ Create Virtual Albums to join multiple directories in one album using the file e
 
 Design
 All new material design with the modal menu option to make the UI look more intuitive.
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Floral/master/sl1.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Floral/master/sl2.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Floral/master/sl3.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Floral/master/sl4.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Floral/master/sl5.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Floral/master/sl6.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Floral/master/sl7.png?raw=true "Title")
+
