@@ -12,7 +12,7 @@
         android:name=".ui.CustomFontApp"
         android:allowBackup="false"
         android:icon="@drawable/floral"
-        android:label="@string/app_name"
+        android:label="@string/app_sign_name"
         android:roundIcon="@drawable/floral"
         android:supportsRtl="true"
         android:theme="@style/CameraRoll.Theme">
